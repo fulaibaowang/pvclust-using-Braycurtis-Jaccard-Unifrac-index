@@ -1,5 +1,5 @@
 # pvclust-using-bray-curtis-and-unifrac-index
-this script incorperate different distance/dissimilarity index (bray-curtis, jaccard, weighted and unweighted unifrac) to R pvclust package.
+this script incorperates different distance/dissimilarity index (bray-curtis, jaccard, weighted and unweighted unifrac) to R pvclust package.
 here are examples:
 
 ```R
